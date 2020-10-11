@@ -1,6 +1,6 @@
 ### Hi there, I'm Yashar Panahi
 
-- 🔭 I’m currently working on my own android project.
+- 🔭 I’m currently working on my personal android project.
 - 🌱 I’m currently improve Kotlin skill.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
