@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my personal android project.
 - 🌱 I’m currently improve Kotlin skill.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <!--
 <a href="https://github.com/adicomdotir">
