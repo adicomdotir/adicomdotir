@@ -1,6 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=adicomdotir" alt="adicomdotir"/>
-
 ### Hi there, I'm Yashar Panahi
+
+[![Gmail Badge](https://img.shields.io/badge/-adicom.ir@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adicom.ir@gmail.com)](mailto:adicom.ir@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yashar%20Panahi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yashar-panahi-813380105/)](https://linkedin.com/in/yashar-panahi-813380105/) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/@YASHAR_PASHA/)](https://t.me/@YASHAR_PASHA/)
+<img src="https://komarev.com/ghpvc/?username=adicomdotir" alt="adicomdotir"/>
 
 
 - 🔭 I’m currently working on my personal android project.
