@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on my personal android project.
-- 🌱 I’m currently improve Kotlin skill.
+- 🌱 I’m currently improve Kotlin & Flutter skill.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
