@@ -24,6 +24,8 @@
 <a href="https://github.com/adicomdotir">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adicomdotir&layout=compact" />
 </a>
+  <br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adicomdotir" alt="adicomdotir" />
-
+<br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adicomdotir&hide=Groovy,JSON,XML,html,markdown,properties,prolog,css,Text&theme=light" />
 </div>
