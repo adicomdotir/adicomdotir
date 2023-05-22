@@ -1,7 +1,7 @@
 ### Hi there, I'm Yashar Panahi
 
 [![Gmail Badge](https://img.shields.io/badge/-adicom.ir@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adicom.ir@gmail.com)](mailto:adicom.ir@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Yashar%20Panahi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yashar-panahi-813380105/)](https://linkedin.com/in/yashar-panahi-813380105/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Yashar%20Panahi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yashar-panahi/)](https://linkedin.com/in/yashar-panahi/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/@YASHAR_PASHA/)](https://t.me/@YASHAR_PASHA/)
 <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=7628863" />
 <img src="https://komarev.com/ghpvc/?username=adicomdotir" alt="adicomdotir"/>
