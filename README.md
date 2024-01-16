@@ -7,10 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=adicomdotir" alt="adicomdotir"/>
 
 
-- 🔭 I’m currently working on my personal mobile project.
-- 🌱 I’m currently improve Jetpack Compose & Flutter skills & Arichituctures.
+- 🔭 I’m currently working on my personal mobile project & AEC company.
+- 🌱 I’m currently improve Jetpack Compose & Flutter skills & Software Archituctures.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects & Improve my personal mobile project for publish in markets
 
 <!--
 <a href="https://github.com/adicomdotir">
