@@ -8,9 +8,9 @@
 
 
 - 🔭 I’m currently working on my personal mobile project.
-- 🌱 I’m currently improve Jetpack Compose & Flutter skills.
+- 🌱 I’m currently improve Jetpack Compose & Flutter skills & Arichituctures.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <!--
 <a href="https://github.com/adicomdotir">
