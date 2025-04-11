@@ -22,7 +22,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adicomdotir&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adicomdotir&theme=apprentice)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adicomdotir&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adicomdotir&theme=apprentice&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adicomdotir&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adicomdotir&theme=apprentice&utcOffset=3.30)
 
 
 <!-- <div>
