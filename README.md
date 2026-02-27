@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my personal mobile project & AEC company.
 - 🌱 I’m currently improve Jetpack Compose & Flutter skills & Software Archituctures.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects & Improve my personal mobile project for publish in markets
+- 🥅 2026 Goals: Contribute more to Open Source projects & Improve my personal mobile project for publish in markets
 
 <!--
 <a href="https://github.com/adicomdotir">
